@@ -19,3 +19,80 @@ It is a growing collection of assignments covering diverse areas such as program
 
 5.Error Message Detector
 ->Real-World Application: Monitoring and log analysis systems
+
+#TASK 2
+
+1.Unique Words in a Sentence
+->Real-Time Applications: Text analytics,Natural Language Processing (NLP) preprocessing,Search engine indexing,Chat analysis systems
+
+2.Highest Salary from Employee Data
+->Real-Time Applications: HR management systems,Payroll analysis
+
+3.Find Maximum and Minimum Values
+->Real-Time Applications: Sales data analysis,Temperature monitoring systems,Performance metric evaluation
+
+4.Count Products Above a Price Threshold
+->Real-Time Applications: E-commerce product filtering,Budget analysis
+
+5.Calculate Attendance Percentage
+->Real-Time Applications: Internship tracking systems,HR attendance management systems
+
+6.Remove Duplicate Phone Numbers
+->Real-Time Applications: Contact management applications,Customer Relationship Management (CRM) systems,Marketing databases
+
+7.Count Character Frequency
+->Real-Time Applications: Text analysis,Password strength validation
+
+8.Convert List to Tuple
+->Real-Time Applications: Making data read-only,Configuration settings storage
+
+9.Check if a Key Exists in a Dictionary
+->Real-Time Applications: User validation systems,Configuration verification
+
+10.Calculate Average Marks
+->Real-Time Applications: Student performance evaluation,Result processing systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
