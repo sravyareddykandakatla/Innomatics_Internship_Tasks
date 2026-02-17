@@ -50,12 +50,22 @@ It is a growing collection of assignments covering diverse areas such as program
 ->Real-Time Applications: User validation systems,Configuration verification
 
 10.Calculate Average Marks
+
 ->Real-Time Applications: Student performance evaluation,Result processing systems
 
+TASK 3
 
+1.Employee Performance Bonus Eligibility
 
+2.Search Query Keyword Analysis
 
+3.Sensor Data Validation
 
+4.Email Domain Usage Analysis
+
+5.Sales Spike Detection
+
+6.Duplicate User ID Detection
 
 
 
