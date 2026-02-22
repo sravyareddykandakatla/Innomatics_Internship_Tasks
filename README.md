@@ -102,16 +102,47 @@ It is a growing collection of assignments covering diverse areas such as program
 
 ->Real-Time Use: Login systems,Security validation
 
+#TASK 5
 
+1.Social Media – Post Engagement Analyzer
 
+->Real-Time Use: Social media analytics platforms,Marketing dashboards
 
+2.Healthcare – Medicine Stock Alert System
 
+->Real-Time Use: Pharmacy management systems,Hospital inventory tracking
 
+3.Agriculture – Rainfall Adequacy Checker
 
+->Real-Time Use: Climate monitoring systems,Irrigation planning tools
 
+4.Social Media – Duplicate Account Detection
 
+->Real-Time Use: Platform moderation,Fraud detection systems
 
+5.Healthcare – Appointment Eligibility Checker
 
+->Real-Time Use: Hospital appointment systems,Healthcare portals
+
+6.Agriculture – Premium Crop Price Filter
+
+->Real-Time Use: Market analytics,Export pricing systems
+
+7.System Monitoring – Application Health Checker
+
+->Real-Time Use: System monitoring tools,IT operations dashboards
+
+8.Banking – Daily Transaction Limit Checker
+
+->Real-Time Use: Banking systems,Fraud prevention systems
+
+9.E-Learning – Student Attendance Eligibility System
+
+->Real-Time Use: Learning management systems,Internship tracking platforms
+
+10.Smart Electricity Bill Analyzer
+
+->Real-Time Use: Smart meter systems,Electricity board billing software,Energy consumption analytics
 
 
 
