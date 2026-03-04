@@ -144,6 +144,31 @@ It is a growing collection of assignments covering diverse areas such as program
 
 ->Real-Time Use: Smart meter systems,Electricity board billing software,Energy consumption analytics
 
+#TASK 6
+
+1.Smart Parking Lot Management System
+
+->Real-Time Use: Mall parking systems,Smart city infrastructure
+
+2.Online Food Delivery Time Estimator
+
+->Real-Time Use: Food delivery apps,Logistics platforms
+
+3.Movie Theatre Seat Occupancy 
+
+->Real-Time Use: Cinema ticketing systems,Event management software
+
+4.Cloud Server Load Classification System
+
+->Real-Time Use: Cloud monitoring dashboards,DevOps alerting systems
+
+5.Smart Classroom Resource Usage Monitor
+
+->Real-Time Use: Smart classrooms,Energy optimization systems
+
+6.Online Event Registration Capacity Controller
+
+-> Real-Time Use: Webinar platforms,Conference registration systems
 
 
 
